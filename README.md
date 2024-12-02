@@ -155,7 +155,7 @@ Execute the program using runserver command.
             </center>
         </body>
     </html>
-    ```
+```
 # OUTPUT
 
 ![alt text](tt1.png)
